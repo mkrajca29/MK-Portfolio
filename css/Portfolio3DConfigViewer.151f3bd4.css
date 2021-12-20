@@ -1,0 +1,1 @@
+.toggle-checkbox[data-v-6dd45582]:checked{@apply: right-0 border-green-400;right:0;border-color:#fff}.toggle-checkbox:checked+.toggle-label[data-v-6dd45582]{@apply: bg-green-400;background-color:#312929}.size[data-v-1bb43ac2]:hover{transform:scale(1.2)}.activeClass[data-v-1bb43ac2]{border-color:#312929}
