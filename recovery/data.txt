@@ -1,0 +1,30 @@
+{
+  "models": [
+    {
+      "name": "model1",
+      "label": "RACK"
+    },
+    {
+      "name": "model2",
+      "label": "BENCH PRESS"
+    },
+    {
+      "name": "model3",
+      "label": "TEST"
+    }
+  ],
+  "accessories": [
+    {
+      "label": "MULTI-PRESS",
+      "value": "MULTI_PRESS"
+    },
+    {
+      "label": "PULL UP BAR",
+      "value": "PULL_UP_BAR"
+    },
+    {
+      "label": "PULLEY SYSTEM",
+      "value": "PULLEY_SYSTEM"
+    }
+  ]
+}

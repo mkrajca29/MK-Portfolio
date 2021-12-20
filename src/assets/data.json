@@ -1,0 +1,69 @@
+{
+  "cz": {
+    "header": 
+    {
+      "title": "Header",
+      "text": "Ze strojního konstruktéra Web developerem.",
+      "languageText": "Switch to ENG"
+    },
+  "skills": 
+    {
+      "title": "Zkušenosti",
+      "text": "Mezi moje zkušenosti patří základní technologie jako je HTML, CSS a Javascript. Jakmile jsem se sžil s Vanilla Javascriptem, začal jsem objevovat krásy ES6 a následně také JS Frameworků. V projektech, kde je důležitá webová indexace používám NUXT.JS. Můj nejoblíbenější JS Framework je Vue.js a nejoblíbenější CSS Framework je Tailwind. Na backendu si prozatím vystačím s BaaS (Firebase). Okrajově jsem použil také NODE.JS s Express."
+    },
+  "myStory": 
+    {
+      "title": "Můj příběh",
+      "text": "Už při výběru střední školy jsem zvažoval, zda-li zvolit kariéru strojaře a vyvíjet nové produkty, nebo zvolit kariéru v IT a vyvíjet software. Nakonec jsem si zvolil cestu 3D modelování a ve stejných kolejích jsem pokračoval na vysokou školu, kde jsem měl zaměření nejen na konstrukci, ale také na robotiku. Programování robotů mi připomínalo dobu, kdy jsem se učil psát první řádky kódu a začalo mě bavit natolik, že jsem se začal zajímat o aktuální trendy při vývoji webových aplikací a postupně se zdokonalovat. "
+    },
+  "cryptoApp": 
+    {
+      "title": "Crypto App",
+      "text": "Tato aplikace poskytuje aktuální přehled v dnes velmi populárních kryptoměnách. Přestože je aplikace poměrně jednoduchá, mně osobně velmi pomáhá při sledování profitu na základě aktuálního kurzu. Vývojem této aplikace jsem si zdokonalil práci s Vue.js frameworkem. State management mám realizovaný pomocí Vuex. Aktuální kurz se tahá přes API a následně se s ním provádí kalkulace na základě vlastněného množství kryptoměn. Veškerá data uživatelů jsou lokálně ukládaná do prohlížeče. V budoucí verzi mám v plánu dynamický výběr všech možných kryptoměn, poskytujících endpoint a ukládání dat do Firebase databáze."
+    },
+    "configurator": 
+      {
+        "title": "3D Konfigurátor",
+        "text": "Jelikož jsem podstatnou část života trávil modelováním hřídelí a konstrukcí slévárenských forem, patří mezi mé oblíbené činnosti propojení kódu s 3D modelem. Na této ukázce je možno rotovat s modelem v prostoru, nastavovat mu barvu a měnit parametry. Díky těmto zkušenostem jsem si zdokonalil práci s knihovnou THREE.JS. Ve svých soukromých projektech se zabývám optimalizací výkonu v obsáhlých konfigurátorech s velkým množstvím 3D modelů."
+      },
+  "gridPainter": 
+    {
+      "title": "Grid Painter",
+      "text": "Mezi mé komplikovanější aplikace patří např. Grid Painter. Jedná se o editor, ve kterém je možné vytvářet 'Low Resolution' obrazce pomocí umisťování jednotlivých bodů na canvas. Do editoru lze pomocí URL vložit obrázek, který může posloužit jako šablona. Velikost plátna, hustotu bodů a jejich barvu lze customizovat dle potřeb. Zatím je k dispozici pouze desktop verze. Výsledkem může být obrazec, jehož body jsou postupně vykreslovány jeden za druhým, což vytvoří animaci jako v této ukázce. Pomocí ovládacích prvků lze nastavit rychlost vykreslování."
+    }
+  },
+
+  "eng": {
+    "header": 
+    {
+      "title": "Header",
+      "text": "From Mechanical engineer to Web developer",
+      "languageText": "Přepnout do CZE"
+    },
+  "skills": 
+    {
+      "title": "Skills",
+      "text": "My experience includes basic technologies such as HTML, CSS and Javascript. Once I got comfortable with Vanilla Javascript, I started to discover the beauty of ES6 and then JS Frameworks. In projects where web indexing is important, I use NUXT.JS. My favorite JS Framework is Vue.js and my favorite CSS Framework is Tailwind. On the backend, I'm using only BaaS (Firebase) for now. I have also marginally used NODE.JS with Express."
+    },
+  "myStory": 
+    {
+      "title": "My Story",
+      "text": "When choosing a high school, I was already considering whether to choose a career as an engineer and develop new products or to choose a career in IT and develop software. In the end, I chose the 3D modeling way and went on to university, where I specialized not only in construction design but also in robotics. Programming robots reminded me of the time when I was learning to write my first lines of code, and I started to enjoy it so much that I became interested in current trends in web application development and gradually improved my skills."
+    },
+  "cryptoApp": 
+    {
+      "title": "Crypto App",
+      "text": "This app provides an up-to-date overview in today's very popular cryptocurrencies. Although the app is quite simple, I personally find it very helpful in tracking my profit based on the current exchange rate. By developing this app, I have perfected working with the Vue.js framework. I have implemented state management using Vuex. The current exchange rate is pulled through the API and then a calculation is done based on the amount of cryptocurrency owned. All user data is stored locally in the browser. In a future version, I plan to dynamically select all possible cryptocurrencies providing an endpoint and storing the data in a Firebase database."
+    },
+    "configurator": 
+      {
+        "title": "3D Configurator",
+        "text": "One of my favourite things to do is to link code to a 3D model, as I have spent the most of my life with designing shafts and foundry moulds. In this demonstration, you can rotate the model in space, adjust its color and change parameters. Thanks to this experience, I have improved my work with the THREE.JS library. In my private projects, I deal with performance optimization in large configurators with a large number of 3D models."
+      },
+  "gridPainter": 
+    {
+      "title": "Grid Painter",
+      "text": "Grid Painter is one of my more complicated applications. This is an editor in which you can create 'Low Resolution' patterns by placing individual points on the canvas. An image can be inserted into the editor using a URL, which can serve as a template. The canvas size, grid density and color can be customized according to your needs. For now, only the desktop version is available. The result can be a pattern whose points are drawn one by one, creating an animation like this one in this sample. The controls can be used to adjust the speed of rendering."
+    }
+  }
+}
